@@ -1,0 +1,21 @@
+.animals{
+  width: 100%;
+  text-align: center;
+}
+
+.profile{
+  border: 3px solid green;
+  margin: 6px;
+  background-color: orange;
+
+  width: 12%;
+  float:left;
+  text-align: center;
+}
+.size {
+  width: 150px;
+  margin-top: 10px;
+}
+.title{
+  text-align: center;
+}
