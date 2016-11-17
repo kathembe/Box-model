@@ -1,0 +1,14 @@
+
+.sidebar{
+  padding: 12px;
+  margin-top: 5px
+  background-color:yellow;
+}
+
+.bigdiv{
+  border: 3px green;
+  padding: 12px;
+  margin: 5%;
+  background-color:green;
+
+}
